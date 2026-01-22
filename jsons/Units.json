@@ -14,4 +14,20 @@
 		"obsoleteTech": "Navigation",
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Ronin",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Wokou",
+		"movement": 2,
+		"strength": 13,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I"],
+		"uniques": ["Can instantly construct a [Fishing Boats] improvement"],
+		"attackSound": "metalhit"
+	},
 ]
