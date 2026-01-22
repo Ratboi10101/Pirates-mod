@@ -1,10 +1,12 @@
 [
- {
+	{
 		"name": "Junk",
 		"unitType": "Ranged Water",
+		"uniqueTo": "Wokou",
+		"replaces": "Trireme",
 		"movement": 5,
 		"strength": 5,
-  "rangedStrength": 5,
+		"rangedStrength": 5,
 		"cost": 53,
 		"requiredTech": "Sailing",
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
