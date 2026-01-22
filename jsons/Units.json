@@ -9,9 +9,9 @@
 		"rangedStrength": 4,
 		"cost": 53,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
-		"upgradesTo": "Caravel",
-		"obsoleteTech": "Astronomy",
+		"uniques": ["Never appears as a Barbarian unit","Can carry [4] [Land] units"],
+		"upgradesTo": "Frigate",
+		"obsoleteTech": "Navigation",
 		"attackSound": "nonmetalhit"
 	},
 ]
