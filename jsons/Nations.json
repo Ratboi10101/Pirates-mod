@@ -7,33 +7,24 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Pirates",
 		
-		"startIntroPart1": "O, Wang Zhi, our great lord and a great trader! We dominated the Asian sea, with mighty power and great trading power.",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "O, Wang Zhi, our great lord and a great trader! You dominated the Asian sea, with mighty power and great trading power.",
+		"startIntroPart2": "so uhh good luck",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "All your golds belong to me.",
+		"attacked": "So... you chose to fight against the power of vast sea.",
+		"defeated": "The sea remembers me, even if history does not.",
+		"introduction": "Welcome to my sea, stranger.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Do you want to trade something?",
+		"hateHello": "You're next.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Sometimes, trading is more profitable than fighting.",
+		"tradeRequest": "Wonderful trade offer, isn't it?.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"uniqueName": "Ruler of the Asian sea",
+		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>"]
+		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
+	},
 ]
