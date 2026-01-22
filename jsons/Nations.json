@@ -23,8 +23,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "Ruler of the Asian sea",
-		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>"]
+		"uniqueName": "The Pirates",
+		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]"]
 		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
 	},
 ]
