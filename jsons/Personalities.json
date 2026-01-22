@@ -1,1 +1,35 @@
+[
+  {
+      "name": "Pirate",
+      "culture": 6,
+      "faith": 4,
+      "food": 5,
+      "gold": 7,
+      "happiness": 7,
+      "production": 5,
+      "science": 4,
+      "military": 7,
+      "aggressive": 8,
+      "declareWar": 6,
+      "commerce": 10,
+      "diplomacy": 4,
+      "loyal": 5,
+      "expansion": 5,
 
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 7,
+          "Honor": 9,
+          "Commerce": 7,
+          "Patronage": 3,
+          "Piety": 4,
+          "Rationalism": 3,
+          "Freedom": 5,
+          "Autocracy": 7,
+          "Order": 7
+      },
+      "civilopediaText": [
+          {"text": "Pirates, the ruler of the ocean."}
+      ]
+  }
+]
