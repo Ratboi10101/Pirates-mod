@@ -21,10 +21,38 @@
 		"afterPeace": "Sometimes, trading is more profitable than fighting.",
 		"tradeRequest": "Wonderful trade offer, isn't it?.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [184, 0, 0],
+		"innerColor": [255,255,255],
+		"uniqueName": "The Ruler of the Sea",
+		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-15]% Production when constructing [Land] units [in all cities]"]
+		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
+	},
+	{
+		"name": "Buccaneer",
+		"leaderName": "Henry Morgan",
+		"adjective": ["Buccaneer"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Pirates",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "so uhh good luck",
+		
+		"declaringWar": "All your golds belong to me.",
+		"attacked": "So... you chose to fight against the power of vast sea.",
+		"defeated": "The sea remembers me, even if history does not.",
+		"introduction": "Welcome to my sea, stranger.",
+		
+		"neutralHello": "Do you want to trade something?",
+		"hateHello": "You're next.",
+
+		"afterPeace": "Sometimes, trading is more profitable than fighting.",
+		"tradeRequest": "Wonderful trade offer, isn't it?.",
+
+		"outerColor": [184, 0, 0],
+		"innerColor": [255,255,255],
 		"uniqueName": "The Pirates",
-		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-5]% Production when constructing [Land] units [in all cities]"]
+		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-15]% Production when constructing [Land] units [in all cities]"]
 		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
 	},
 ]
