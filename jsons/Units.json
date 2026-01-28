@@ -1,17 +1,15 @@
 [
 	{
 		"name": "Junk",
-		"unitType": "Melee Water",
+		"unitType": "Civilian Water",
 		"uniqueTo": "Wokou",
 		"replaces": "Trireme",
 		"movement": 3,
-		"strength": 4,
 		"cost": 53,
 		"requiredTech": "Sailing"
 		"uniques": ["Never appears as a Barbarian unit", "Can carry [2] [Civilian] units", "Can carry [1] [Sword] units", "Can carry [1] [Archery] units", "Can carry [1] [Gunpowder] units"],
 		"upgradesTo": "Frigate",
 		"obsoleteTech": "Navigation",
-		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Ronin",
