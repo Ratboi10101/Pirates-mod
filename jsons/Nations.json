@@ -24,7 +24,7 @@
 		"outerColor": [184, 0, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Ruler of the Sea",
-		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+25]% Gold from Barbarian encampments and pillaging Cities","Earn [50]% of the damage done to [City] units as [Gold]","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-15]% Production when constructing [Land] units [in all cities]"]
+		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive 10]% Gold from Barbarian encampments and pillaging Cities","Earn [50]% of the damage done to [City] units as [Gold]","Earn [75]% of the damage done to [Water] units as [Gold]","Earn [100]% of the damage done to [Civilian] units as [Gold]","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-15]% Production when constructing [Land] units [in all cities]"]
 		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
 	},
 	{
@@ -38,21 +38,21 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "so uhh good luck",
 		
-		"declaringWar": "All your golds belong to me.",
-		"attacked": "So... you chose to fight against the power of vast sea.",
-		"defeated": "The sea remembers me, even if history does not.",
-		"introduction": "Welcome to my sea, stranger.",
+		"declaringWar": "Prepare to drown!",
+		"attacked": "You just made a very... very fatal mistake.",
+		"defeated": "The capital is burning, but I won't surrender. I will sink with my ship.",
+		"introduction": "We are no barbarians, we are the Buccaneers!",
 		
-		"neutralHello": "Do you want to trade something?",
-		"hateHello": "You're next.",
+		"neutralHello": "Need something?",
+		"hateHello": "Oh, It's you... Again...",
 
-		"afterPeace": "Sometimes, trading is more profitable than fighting.",
-		"tradeRequest": "Wonderful trade offer, isn't it?.",
+		"afterPeace": "Let's share the booty! ...treasure I mean.",
+		"tradeRequest": "...We also trade, you know.",
 
 		"outerColor": [184, 0, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Pirates",
-		"uniques": ["[+1] Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [+200]% Gold from Barbarian encampments and pillaging Cities","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-15]% Production when constructing [Land] units [in all cities]"]
+		"uniques": ["[+1] Range <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive 10]% Gold from Barbarian encampments and pillaging Cities","Earn [50]% of the damage done to [City] units as [Gold]","Earn [75]% of the damage done to [Water] units as [Gold]","Earn [100]% of the damage done to [Civilian] units as [Gold]","[+20]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+15]% Production when constructing [Water] units [in all cities]","[-15]% Production when constructing [Land] units [in all cities]"]
 		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
 	},
 ]
