@@ -1,15 +1,14 @@
 [
 	{
 		"name": "Junk",
-		"unitType": "Ranged Water",
+		"unitType": "Melee Water",
 		"uniqueTo": "Wokou",
 		"replaces": "Trireme",
 		"movement": 3,
 		"strength": 4,
-		"rangedStrength": 4,
 		"cost": 53,
-		"requiredTech": "Sailing",
-		"uniques": ["Never appears as a Barbarian unit","Can carry [4] [Land] units"],
+		"requiredTech": "Sailing"
+		"uniques": ["Never appears as a Barbarian unit","Can carry [4] [Civilian,Sword,Archery,Scout,Gunpowder] units"],
 		"upgradesTo": "Frigate",
 		"obsoleteTech": "Navigation",
 		"attackSound": "nonmetalhit"
