@@ -24,7 +24,7 @@
 		"outerColor": [184, 0, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Ruler of the Sea",
-		"uniques": ["Discover [Compass]","Discover [Sailing]","Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [10]% Gold from Barbarian encampments and pillaging Cities","Earn [75]% of the damage done to [City] units as [Gold]","Earn [75]% of the damage done to [Water] units as [Gold]","Earn [100]% of the damage done to [Civilian] units as [Gold]","[+5]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[-30]% Production [in all cities]"]
+		"uniques": ["Discover [Optics]","Discover [Compass]","Discover [Sailing]","Movement <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [10]% Gold from Barbarian encampments and pillaging Cities","Earn [75]% of the damage done to [City] units as [Gold]","Earn [75]% of the damage done to [Water] units as [Gold]","Earn [100]% of the damage done to [Civilian] units as [Gold]","[+5]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[-30]% Production [in all cities]"]
 		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
 	},
 	{
@@ -52,7 +52,7 @@
 		"outerColor": [184, 0, 0],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Pirates",
-		"uniques": ["Discover [Compass]","Discover [Sailing]","[+1] Range <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [10]% Gold from Barbarian encampments and pillaging Cities","Earn [50]% of the damage done to [City] units as [Gold]","Earn [75]% of the damage done to [Water] units as [Gold]","Earn [100]% of the damage done to [Civilian] units as [Gold]","[+5]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+30]% Production [in all cities]"]
+		"uniques": ["Discover [Optics]","Discover [Compass]","Discover [Sailing]","[+1] Range <for [Water] units>", "Gain a free [Harbor] [in all coastal cities]","Receive [10]% Gold from Barbarian encampments and pillaging Cities","Earn [50]% of the damage done to [City] units as [Gold]","Earn [75]% of the damage done to [Water] units as [Gold]","Earn [100]% of the damage done to [Civilian] units as [Gold]","[+5]% Strength <for [Water] units>","[+75]% maintenance costs <for [Land] units>","[+30]% Production [in all cities]"]
 		"cities": ["Shuangyu","Hirado","Ningbo","Tsushima","Penghu","Iki"]
 	},
 ]
